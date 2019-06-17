@@ -15,6 +15,7 @@
 		553A7FF922B766590083868E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 553A7FF822B766590083868E /* main.m */; };
 		553A800322B7665A0083868E /* githubTest1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 553A800222B7665A0083868E /* githubTest1Tests.m */; };
 		553A800E22B7665A0083868E /* githubTest1UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 553A800D22B7665A0083868E /* githubTest1UITests.m */; };
+		553A805B22B7972E0083868E /* qeqweqwee.m in Sources */ = {isa = PBXBuildFile; fileRef = 553A805A22B7972E0083868E /* qeqweqwee.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		553A800922B7665A0083868E /* githubTest1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = githubTest1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		553A800D22B7665A0083868E /* githubTest1UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = githubTest1UITests.m; sourceTree = "<group>"; };
 		553A800F22B7665A0083868E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		553A805922B7972E0083868E /* qeqweqwee.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = qeqweqwee.h; sourceTree = "<group>"; };
+		553A805A22B7972E0083868E /* qeqweqwee.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = qeqweqwee.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				553A7FEA22B766550083868E /* AppDelegate.m */,
 				553A7FEC22B766550083868E /* ViewController.h */,
 				553A7FED22B766550083868E /* ViewController.m */,
+				553A805922B7972E0083868E /* qeqweqwee.h */,
+				553A805A22B7972E0083868E /* qeqweqwee.m */,
 				553A7FEF22B766550083868E /* Main.storyboard */,
 				553A7FF222B766590083868E /* Assets.xcassets */,
 				553A7FF422B766590083868E /* LaunchScreen.storyboard */,
@@ -265,6 +270,7 @@
 				553A7FEE22B766550083868E /* ViewController.m in Sources */,
 				553A7FF922B766590083868E /* main.m in Sources */,
 				553A7FEB22B766550083868E /* AppDelegate.m in Sources */,
+				553A805B22B7972E0083868E /* qeqweqwee.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
